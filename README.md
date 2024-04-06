@@ -2,8 +2,7 @@
 Hide any Zip file inside an Image (For educational purposes only!)
 
 
-## In the configuration of R2000 RFID reader module, I have advanced during last times. Now I have a new question. If I want to get the antenna setting info I send an Hex command and module returns the next info: A5 5A 00 0A 2b 22 11 12 0D 0A where data 22 11 are DByte1 DByte0 and means that antenna 1, 5, 10 and 14 are chosen. I don't know how to get this info from 22 11 Hex code.
-
+## Configuration of R2000 RFID reader module.
 DByte1 (Hex 22) means that antennas 10 and 14 are chosen DByte0 (Hex 11) means that antennas 1 and 5 are chosen
 
 
